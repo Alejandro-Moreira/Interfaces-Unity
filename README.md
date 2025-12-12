@@ -33,8 +33,7 @@ Incluye:
 
 Clona el repositorio:
 
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-
+https://github.com/Alejandro-Moreira/Interfaces-Unity.git
 
 * Abre Unity Hub.
 * Selecciona Open Project.
@@ -45,13 +44,13 @@ git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
 ## Estructura de carpetas
 -/Assets
 -   /Scripts
--      CubeSpawner.cs
--      UISound.cs
--      StopMenuMusic.cs
+      CubeSpawner.cs
+      UISound.cs
+      StopMenuMusic.cs
 -   /Prefabs
 -   /Scenes
--      SampleMenu.unity
--      GameScene.unity
+      SampleMenu.unity
+      GameScene.unity
 -   /Sounds
 
 ## Enlace al video
