@@ -44,13 +44,13 @@ https://github.com/Alejandro-Moreira/Interfaces-Unity.git
 ## Estructura de carpetas
 -/Assets
 -   /Scripts
-      CubeSpawner.cs
-      UISound.cs
-      StopMenuMusic.cs
+-      CubeSpawner.cs
+-      UISound.cs
+-     StopMenuMusic.cs
 -   /Prefabs
 -   /Scenes
-      SampleMenu.unity
-      GameScene.unity
+-      SampleMenu.unity
+-      GameScene.unity
 -   /Sounds
 
 ## Enlace al video
@@ -59,4 +59,5 @@ https://udlaec-my.sharepoint.com/:v:/g/personal/alejandro_moreira_udla_edu_ec/IQ
 
 ## Enlace al itch.io
 
+https://alejandrom11.itch.io/interfaces
 
